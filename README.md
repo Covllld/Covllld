@@ -1,22 +1,24 @@
+<h1 align="center">Covllld Covllld</h1>
+<h3 align="center">Dev</h3>
 
-https://komarev.com/ghpvc/?username-covllld-label-Profile%20views-coe-0e75b6-style-flat-" alt-"covllld" /-/p-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=covllld&label=Profile%20views&color=0e75b6&style=flat" alt="covllld" /> </p>
 
-https://github.com/ryo-ma/github-profile-trophy"-img src-" https://github-trophy-"?username-covllld" alt-covllld" /-/a-/a-/a-/p
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=covllld" alt="covllld" /></a> </p>
 
-Je travaille actuellement sur le projet de pente.
+- 🔭 I’m currently working on **Pentesting Project**
 
-J'apprends actuellement C, Javascipt (Node Framework)
+- 🌱 I’m currently learning **C, Javascipt (Node Framework)**
 
-Comment m'atteindre 'dm b7pd dans Discord'
+- 📫 How to reach me **dm b7pd in Discord**
 
-Je suis un mineur.
+- ⚡ Fun fact **I am a minor**
 
-J'ai un lien avec moi:/h3
-EPMATHMARKEREP EPMATHMARKEREP EPMATHMARKEREP EPMATHMARKEREP EPMATHMARKEREP EPMATHMARKEREP EPMATHMARKEREP
-/p
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Langues et outils:
-https://www.cprogramming.com/"""""blank" rel'"noreferrer" https://raw.githubusercontent.com/devicons/master/icons/c/c-original.svg" alt-"c"v" largeur-"40" hauteur-"40"/------------------------------------------------------------------------------------------------------------- (a) https://www.w3schools.com/css/" target"" rel'"noreferrer" https://raw.githubusercontent.com/devicons/master/icons/css3/css3-original-wordmark.svg" alt-"css3"" largeur"40" hauteur-"40"/ (a) "https://git-scm.com/" cible ""blank" rel'"noreferrer" https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt-g"l"g" largeur "40" hauteur-"40"/------------------------------------------------------------------------------------------------------------- (a) https://www.w3.org/html/" target'"" rel'""noreferrer" https://raw.githubusercontent.com/devicons/master/icons/html5/html5-original-wordmark.svg" alt-"html5" largeur-"40" hauteur-40" (a) https://developer.mozilla.org/en-US/docs/Web/JavaScript cible """blank" rel-""noreferrer" https://raw.githubusercontent.com/devicons/master/icons/javascript/javascript-original.svg" alt-"javascript" largeur-"40" hauteur-"40" (a) https://www.linux.org/" cible ""blank" rel'"noreferrer" https://raw.githubusercontent.com/devicons/master/icons/linux/linux-original.svg" alt-"linux" largeur-"40" hauteur-"40"/------------------------------------------------------------------------------------------------------------ (a) «https://nodejs.org" cible ""blank" rel-'"noreferrer" https://raw.githubusercontent.com/devicons/master/icons/nodejs/nodejs-original-wordmark.svg" alt-nodejs" largeur-"40" hauteur-"40"/---------------------------------------------------------------------------------------------------- (a) https://www.python.org" cible ""blank" rel'"noreferrer" https://raw.githubusercontent.com/devicons/master/icons/python/python-original.svg" alt'""python" largeur "40" hauteur-"40"/------------------------------------------------------------------------------------------------------ (a) /p
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-https://github-readme-stats.vercel/api?username-covllld-show-icons-true-locale-en-avol.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=covllld&show_icons=true&locale=en" alt="covllld" /></p>
 
